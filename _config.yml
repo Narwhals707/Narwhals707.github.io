@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Gus Bloxham
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A person from a far off land (I wish it was Banarnia) who likes pizza, cheese and narwhals.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://benjiward.weebly.com/uploads/2/8/5/9/28599469/8549093.jpg
 
 #
 # Flags below are optional
@@ -18,18 +18,18 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: gusbloxham@btinternet.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: Narwhals707.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: # user/Yoghurt FTW
+  googleplus: # Yoghurt FTW/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
