@@ -31,9 +31,9 @@ tr:nth-child(even) {background-color: #f2f2f2}
 
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Codecademy</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>25/05/17</td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
