@@ -80,8 +80,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
   </tr>
 </table>
 
+</body>
+</html>
 
-Here are my badges for this week:
-
-![image alt text]({{ site.url }}/public/cUHXQV0rss46aUTVDfQ6yw_img_0.png)
 
