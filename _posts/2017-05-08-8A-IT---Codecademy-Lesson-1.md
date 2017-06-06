@@ -24,6 +24,7 @@ th {
     background-color: #4CAF50;
     color: white;
 }
+tr:nth-child(even) {background-color: #f2f2f2}
 </style>
 </head>
 <body>
