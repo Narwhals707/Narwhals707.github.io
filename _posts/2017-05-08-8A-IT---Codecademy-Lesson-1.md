@@ -13,7 +13,7 @@ published: true
 table, th, td {
     border: 1px solid black;
 }
-table {
+table, th, td {
     width: 100%;
 }
 </style>
