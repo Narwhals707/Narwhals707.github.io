@@ -16,6 +16,10 @@ table, th, td {
 table, th, td {
     width: 50%;
 }
+th, td {
+    padding: 15px;
+    text-align: left;
+}
 </style>
 </head>
 <body>
