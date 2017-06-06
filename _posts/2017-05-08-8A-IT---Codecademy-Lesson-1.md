@@ -6,6 +6,14 @@ permalink: /8a-it---codecademy-lesson-1/
 source-id: 1KJ-4MmibdRbcbM-iaQ2DxGg1Sm5rsOa7GwnqRPc38Vw
 published: true
 ---
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+
 <table>
   <tr>
     <td>Title</td>
