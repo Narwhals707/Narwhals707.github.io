@@ -20,6 +20,10 @@ th, td {
     padding: 15px;
     text-align: left;
 }
+th {
+    background-color: #4CAF50;
+    color: white;
+}
 </style>
 </head>
 <body>
