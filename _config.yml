@@ -3,13 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Gus Bloxham
-
+name: Not The Worst Blog Out There
 # Short bio or description (displayed in the header)
-description: A person from a far off land (I wish it was Banarnia) who likes pizza, cheese and narwhals.
+description: "I've done worse..."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://benjiward.weebly.com/uploads/2/8/5/9/28599469/8549093.jpg
+avatar: https://cdn.bulbagarden.net/upload/thumb/3/36/479Rotom-Pok%C3%A9dex.png/160px-479Rotom-Pok%C3%A9dex.png
 
 #
 # Flags below are optional
@@ -18,13 +17,14 @@ avatar: http://benjiward.weebly.com/uploads/2/8/5/9/28599469/8549093.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: gusbloxham@btinternet.com
+  email: gusbloxham@btopenzone.com
   facebook:
   flickr:
   github: Narwhals707.github.io
   instagram:
   linkedin:
   pinterest:
+  reddit: BanarniaIsHere
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
