@@ -7,14 +7,13 @@ source-id: 1KJ-4MmibdRbcbM-iaQ2DxGg1Sm5rsOa7GwnqRPc38Vw
 published: true
 ---
 
+<table>
 table {
     border-collapse: collapse;
 }
 table, th, td {
    border: 1px solid black;
 }
-
-<table>
   <tr>
     <td>Title</td>
     <td>Codecademy</td>
@@ -25,6 +24,12 @@ table, th, td {
 
 
 <table>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
   <tr>
     <td>Starting point:</td>
     <td>Haven't started.</td>
@@ -42,6 +47,12 @@ table, th, td {
 
 
 <table>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
   <tr>
     <td>Lesson Review</td>
   </tr>
