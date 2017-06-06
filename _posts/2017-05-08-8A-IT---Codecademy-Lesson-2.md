@@ -6,11 +6,34 @@ permalink: /8a-it---codecademy-lesson-2/
 source-id: 11cIG4FBiUZ29Gbxhmxs4VAHlltSsfD9FJa5okTHxM2c
 published: true
 ---
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+table, th, td {
+    width: 100%;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+</style>
+</head>
+<body>
+
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Codecademy</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>02/05/17</td>
   </tr>
 </table>
@@ -35,7 +58,7 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
@@ -57,4 +80,6 @@ published: true
   </tr>
 </table>
 
+</body>
+</html>
 
