@@ -14,7 +14,7 @@ table, th, td {
     border: 1px solid black;
 }
 table, th, td {
-    width: 100%;
+    width: 50%;
 }
 </style>
 </head>
