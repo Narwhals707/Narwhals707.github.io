@@ -6,11 +6,34 @@ permalink: /8a-it---codecademy-lesson-3/
 source-id: 1CgODdVXfOF6onZ2xwJObcHWK1OZ18MOUC7iOSoK2fKY
 published: true
 ---
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+table, th, td {
+    width: 100%;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+</style>
+</head>
+<body>
+
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Codecademy</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>09/05/17</td>
   </tr>
 </table>
@@ -35,7 +58,7 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
@@ -62,3 +85,5 @@ These are the badges I obtained this lesson:
 
 ![image alt text]({{ site.url }}/public/mmUvlv4E6IOgYnZyd35Q_img_0.png)
 
+</body>
+</html>
