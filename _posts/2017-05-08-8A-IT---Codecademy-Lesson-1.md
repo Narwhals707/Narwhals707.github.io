@@ -13,6 +13,9 @@ published: true
 table, th, td {
     border: 1px solid black;
 }
+table {
+    width: 100%;
+}
 </style>
 </head>
 <body>
