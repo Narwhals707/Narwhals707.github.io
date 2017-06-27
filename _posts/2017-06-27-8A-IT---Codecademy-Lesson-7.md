@@ -6,6 +6,29 @@ permalink: /8a-it---codecademy-lesson-7/
 source-id: 1Sivoy9371OLv2Khp0fiARg1L3NBjFwQAXpT1ojYnI-0
 published: true
 ---
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+table, th, td {
+    width: 100%;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+</style>
+</head>
+<body>
+
 <table>
   <tr>
     <td>Title</td>
@@ -60,3 +83,8 @@ published: true
 
 These are my badges:
 
+
+
+
+</body>
+</html>
