@@ -19,7 +19,8 @@ html {
 
 body {
 	background-image: url("https://newevolutiondesigns.com/images/freebies/white-wallpaper-20.jpg");
-	background-position: middle top;
+	background-position: center top;
+	background-attachment: fixed;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
