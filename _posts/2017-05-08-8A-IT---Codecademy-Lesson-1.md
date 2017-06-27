@@ -25,9 +25,18 @@ th {
     color: white;
 }
 tr:nth-child(even) {background-color: #f2f2f2}
+
+p.round2 {
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: lightgrey;
+}
+
 </style>
 </head>
 <body>
+
+<p class="round2">
 
 <table>
   <tr>
@@ -79,6 +88,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
     <td>Next time, I will make sure to record my progress by taking screenshots of the badges I obtain and saving them to my Drive. I also need to make a blog post and paste the badges into it to prove that I have done this much. On the other hand, I think that that there isn’t much I need to change about my pace of work; I can say with certainty that I will finish the course on time at this rate. I reached 19% at the end of the lesson.</td>
   </tr>
 </table>
+</p>
 
 </body>
 </html>
