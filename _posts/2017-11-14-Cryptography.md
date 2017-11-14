@@ -6,6 +6,29 @@ permalink: /cryptography/
 source-id: 1lu-iMl1fy7CxMUs8VqgEdczF9dhtV3dIsqwBMIKL1jY
 published: true
 ---
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+table, th, td {
+    width: 100%;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #7A7A7A;
+    color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+</style>
+</head>
+<body>
+
 <table>
   <tr>
     <td>Title</td>
@@ -60,3 +83,7 @@ published: true
 
 My Spreadsheet (hopefully a decent size):
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGhbhyAef3TGcm1gErRD3soFQe8KooArMdukcxa_wNzzsj_gvKSe11NUNTVQMf8UyAEmbKZGAPwdWW/pubhtml?widget=true&amp;headers=false"></iframe>
+
+</body>
+</html>
