@@ -83,7 +83,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
 
 My Spreadsheet:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGhbhyAef3TGcm1gErRD3soFQe8KooArMdukcxa_wNzzsj_gvKSe11NUNTVQMf8UyAEmbKZGAPwdWW/pubhtml?widget=true&amp;height="200" width="300";headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGhbhyAef3TGcm1gErRD3soFQe8KooArMdukcxa_wNzzsj_gvKSe11NUNTVQMf8UyAEmbKZGAPwdWW/pubhtml?"height="200" width="300"></iframe>
 
 </body>
 </html>
